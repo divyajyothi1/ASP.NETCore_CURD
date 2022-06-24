@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCore_CURD", "ASP.NETCore_CURD\ASP.NETCore_CURD.csproj", "{96FC642C-6B51-40CF-8F6F-D874157E3B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96FC642C-6B51-40CF-8F6F-D874157E3B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FC642C-6B51-40CF-8F6F-D874157E3B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FC642C-6B51-40CF-8F6F-D874157E3B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FC642C-6B51-40CF-8F6F-D874157E3B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FD75FC-0B96-470B-B1CA-94A871E55B79}
+	EndGlobalSection
+EndGlobal
